@@ -1,4 +1,4 @@
-# Amazon Product Review AI Agent - Analyzer
+# Amazon Product Reviews AI Agent - Analyzer
 
 An AI-powered FastAPI application that scrapes Amazon product reviews and generates comprehensive sentiment analysis reports using advanced NLP techniques.
 
