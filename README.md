@@ -27,7 +27,6 @@ An AI-powered FastAPI application that scrapes Amazon product reviews and genera
 
 - Python 3.8 or higher
 - pip package manager
-- Internet connection for model downloads and scraping
 
 ## 🔧 Installation
 
